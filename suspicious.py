@@ -1,0 +1,36 @@
+keywords = { 
+	'child': 50, 
+	'sex': 25, 
+	'porn': 25, 
+	'teen': 40,
+} 
+
+tlds = [ 
+	'.ga', 
+	'.gq', 
+	'.ml', 
+	'.cf', 
+	'.tk', 
+	'.xyz', 
+	'.ws', 
+	'.pw', 
+	'.net', 
+	'.com', 
+	'.org',
+	'.info',
+	'.pw',
+	'.top',
+	'.club',
+	'.se',
+	'.download',
+	'.fun',
+	'.ru',
+	'.gdn',
+	'.trade',
+	'.bid',
+	'.biz',
+	'.ws',
+	'.site',
+	'.in',
+	'.tk' 
+] 
